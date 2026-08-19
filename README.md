@@ -44,7 +44,6 @@ I build scalable web applications using React, Next.js, Vue, Nuxt, Node.js and T
 - 🌍 Based in **Pakistan** — open to remote opportunities worldwide
 - 📈 Passionate about clean code, performance & scalable architecture
 - ⚡ Delivered **20+ projects** with **99% client satisfaction**
-- 🎯 Built apps serving **1K+ users** with **40% faster load times**
 
 ---
 
