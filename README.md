@@ -387,6 +387,10 @@ I'm always interested in collaborating on impactful projects, contributing to op
   <img src="https://img.shields.io/badge/📄_Resume-Download-16A34A?style=for-the-badge" />
 </a>
 
+<a href="https://github.com/faisalkhalildev/Faisal_khalil_Certificate" target="_blank">
+  <img src="https://img.shields.io/badge/🏆_Certificates-View-16A34A?style=for-the-badge" />
+</a>
+
 <a href="https://www.linkedin.com/in/shah-faisal-khalil-1270392bb/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
