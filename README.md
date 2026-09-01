@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/faisalkhalildev/faisalkhalildev/main/gif.gif" alt="Developer Banner" width="600"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I'm+Faisal+Khalil;Full-Stack+JavaScript+Enginner;React+%E2%80%A2+Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Nuxt.js;Node.js+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;Building+Modern+Applications" alt="Typing SVG" />
-</h1>
 
 <h3 align="center">
   JavaScript Full Stack Engineer | React.js• Next.js • Vue.js • Nuxt.js • Node.js • JavaScript
