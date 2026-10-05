@@ -337,9 +337,6 @@ I leverage AI tools to accelerate development and improve code quality:
 </tr>
 </table> -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalkhalildev&theme=tokyo-night&hide_border=true&area=true&custom_title=Faisal%20Khalil%27s%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/faisalkhalildev/faisalkhalildev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="98%" />
 
